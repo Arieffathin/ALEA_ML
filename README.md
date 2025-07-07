@@ -1,5 +1,4 @@
 # Aksara Learning App  
-Team ID: CC25-CF320  
 
 ---
 
