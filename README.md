@@ -41,9 +41,9 @@ This project covers the **entire pipeline**: from **data collection, model train
 
 | Path | Name                 | Student ID|            Institution             |
 |-------|-------------------- |-----------|------------------------------------|
-| ML    | Arief Fathin Abrar  | -         | Universitas Islam Negeri Ar-Raniry |
-| MD    | M Dolyanda Harialdy | -         | Universitas Islam Negeri Ar-Raniry |
-| CC    | Hanafi Akbar        | -         | Universitas Islam Negeri Ar-Raniry |
+| ML    | Arief Fathin Abrar  | 210705003 | Universitas Islam Negeri Ar-Raniry |
+| MD    | M Dolyanda Harialdy | 210705112 | Universitas Islam Negeri Ar-Raniry |
+| CC    | Hanafi Akbar        | 210705046 | Universitas Islam Negeri Ar-Raniry |
 
 ---
 
